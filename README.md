@@ -7,7 +7,7 @@ Fork this repo and edit [src/App.js](/src/App.js) to get started!
 ## Requirements
 
 - Child nodes should be able to be created “on enter” of a text input as seen in the example video.
-- The component should be capable of accepting a default value as a prop. Example default data structure, (but please design however you see fit):
+- The component should be capable of accepting a default value as a prop. Example default data structure shown in [the assessment document](https://bestquote.notion.site/Fullstack-Software-Engineer-Assessments-a0b4e26008284491bbfc7562d5f59b8c), (but please design however you see fit):
 - Hosted publicly on Github Pages. See directions below.
 
 ## Deploying to Github Pages
